@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://joshclarke.us/"/>
-  <updated>2018-05-16T06:07:58.672Z</updated>
+  <updated>2018-05-16T06:21:19.516Z</updated>
   <id>http://joshclarke.us/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="http://joshclarke.us/hello/"/>
     <id>http://joshclarke.us/hello/</id>
     <published>2018-05-16T06:07:58.671Z</published>
-    <updated>2018-05-16T06:07:58.672Z</updated>
+    <updated>2018-05-16T06:21:19.516Z</updated>
     
-    <content type="html"><![CDATA[<p>I’m a freelance UX designer, information architect, and front-end developer. I’m currently traveling and accepting freelance work. For portfolio and work experience, please contact me <a href="mailto:josh@joshclarke.us">here</a>.</p><p>More to come…</p>]]></content>
+    <content type="html"><![CDATA[<p>I’m a freelance UX designer, information architect, and front-end developer. I’m currently traveling and accepting freelance work. <strong>Currently available for hire.</strong></p><p>This is just a placeholder while I get things in order. You’re welcome to browse my older work (4+ years old) at <a href="https://transhumancreative.com" target="_blank" rel="noopener">Transhuman Creative</a> or contact me for examples of more recent work and a résumé <a href="mailto:josh@joshclarke.us">here</a>.</p>]]></content>
     
     <summary type="html">
     
